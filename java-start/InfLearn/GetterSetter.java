@@ -1,9 +1,9 @@
-public class Vehicle {
+public class GetterSetter {
     private String type = "";
     private boolean existWheel = false;
     private String fuelType = "";
 
-    public Vehicle(String type, boolean existWheel, String fuelType) {
+    public GetterSetter(String type, boolean existWheel, String fuelType) {
         this.type = type;
         this.existWheel = existWheel;
         this.fuelType = fuelType;
